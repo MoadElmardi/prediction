@@ -1,0 +1,205 @@
+param_tfhe,operation,temps_moyen_s,ecart_type_s,nb_chiffres,type_donnee,echelle
+FheUint16,Chiffrement,0.0008329909999999,0.000162573,1,entier,
+FheUint16,Shift,7.232e-06,5.329e-06,1,entier,
+FheUint16,Addition constante,0.120617264,0.0048194449999999,1,entier,
+FheUint16,Multiplication constante,0.042323265,0.0020392319999999,1,entier,
+FheUint16,Casting,5.959e-06,2.659e-06,1,entier,
+FheUint16,ET binaire,1.4736e-05,5.916000000000001e-06,1,entier,
+FheUint16,OU binaire,2.912e-06,8.73e-07,1,entier,
+FheUint16,NOT,1.1053e-05,3.623e-06,1,entier,
+FheUint16,Dechiffrement,1.3492e-05,3.721e-06,1,entier,
+FheUint32,Chiffrement,0.0014369,0.0001360569999999,1,entier,
+FheUint32,Shift,1.2704e-05,7.203e-06,1,entier,
+FheUint32,Addition constante,0.219452607,0.013631646,1,entier,
+FheUint32,Multiplication constante,0.072966084,0.005640959,1,entier,
+FheUint32,Casting,9.259e-06,1.735e-06,1,entier,
+FheUint32,ET binaire,2.2758e-05,4.005e-06,1,entier,
+FheUint32,OU binaire,2.701e-06,2.99e-07,1,entier,
+FheUint32,NOT,1.7239000000000002e-05,2.276e-06,1,entier,
+FheUint32,Dechiffrement,2.2702e-05,4.029e-06,1,entier,
+FheUint64,Chiffrement,0.002907695,0.000236386,1,entier,
+FheUint64,Shift,3.2130000000000006e-05,1.3669e-05,1,entier,
+FheUint64,Addition constante,0.4917121969999999,0.027830265,1,entier,
+FheUint64,Multiplication constante,0.161336802,0.014045654,1,entier,
+FheUint64,Casting,2.8166e-05,3.324e-06,1,entier,
+FheUint64,ET binaire,5.2438e-05,8.299e-06,1,entier,
+FheUint64,OU binaire,3.556e-06,3.82e-07,1,entier,
+FheUint64,NOT,3.8661e-05,4.941e-06,1,entier,
+FheUint64,Dechiffrement,5.0581e-05,5.447e-06,1,entier,
+FheUint128,Chiffrement,0.00591526,0.000506985,1,entier,
+FheUint128,Shift,9.1697e-05,3.5558e-05,1,entier,
+FheUint128,Addition constante,1.099972889,0.1161222899999999,1,entier,
+FheUint128,Multiplication constante,0.355397237,0.054879944,1,entier,
+FheUint128,Casting,8.354099999999999e-05,3.2107e-05,1,entier,
+FheUint128,ET binaire,0.000242881,7.9171e-05,1,entier,
+FheUint128,OU binaire,4.972e-06,2.793e-06,1,entier,
+FheUint128,NOT,0.000111932,2.9221e-05,1,entier,
+FheUint128,Dechiffrement,0.000102801,2.9884e-05,1,entier,
+FheUint256,Chiffrement,0.011529584,0.000740022,1,entier,
+FheUint256,Shift,0.000211564,0.000103259,1,entier,
+FheUint256,Addition constante,2.193878011,0.076241797,1,entier,
+FheUint256,Multiplication constante,0.6830050089999999,0.028700365,1,entier,
+FheUint256,Casting,0.0002087829999999,4.4336e-05,1,entier,
+FheUint256,ET binaire,0.000604782,0.000135392,1,entier,
+FheUint256,OU binaire,5.32e-06,7.760000000000001e-07,1,entier,
+FheUint256,NOT,0.000253671,4.2117e-05,1,entier,
+FheUint256,Dechiffrement,5.5916e-05,1.565e-05,1,entier,
+FheUint512,Chiffrement,0.028489648,0.004915348,1,entier,
+FheUint512,Shift,0.000740504,0.00042301,1,entier,
+FheUint512,Addition constante,5.858141563,0.979344317,1,entier,
+FheUint512,Multiplication constante,1.679207772,0.286501323,1,entier,
+FheUint512,Casting,0.000586609,8.5257e-05,1,entier,
+FheUint512,ET binaire,0.001864558,0.000606701,1,entier,
+FheUint512,OU binaire,1.065e-05,7.85e-06,1,entier,
+FheUint512,NOT,0.000677793,0.0001939799999999,1,entier,
+FheUint512,Dechiffrement,6.6564e-05,2.4506e-05,1,entier,
+FheUint1024,Chiffrement,0.056104658,0.0069740969999999,1,entier,
+FheUint1024,Shift,0.003093332,0.000601536,1,entier,
+FheUint1024,Addition constante,12.105080288,1.24504801,1,entier,
+FheUint1024,Multiplication constante,3.357857584,0.3578840279999999,1,entier,
+FheUint1024,Casting,0.001234497,0.000207646,1,entier,
+FheUint1024,ET binaire,0.003903601,0.000721452,1,entier,
+FheUint1024,OU binaire,1.1394e-05,4.951e-06,1,entier,
+FheUint1024,NOT,0.00169097,0.000255094,1,entier,
+FheUint1024,Dechiffrement,6.611799999999999e-05,2.8381e-05,1,entier,
+FheUint2048,Chiffrement,0.1104195549999999,0.025963023,1,entier,
+FheUint2048,Shift,0.006562523,0.002546279,1,entier,
+FheUint2048,Addition constante,23.864846124000003,4.025606726,1,entier,
+FheUint2048,Multiplication constante,7.578268466,1.393017853,1,entier,
+FheUint2048,Casting,0.002413889,0.000907523,1,entier,
+FheUint2048,ET binaire,0.010779234,0.002492716,1,entier,
+FheUint2048,OU binaire,1.2544e-05,5.657e-06,1,entier,
+FheUint2048,NOT,0.003998976,0.000791477,1,entier,
+FheUint2048,Dechiffrement,9.948e-05,0.000153836,1,entier,
+FheUint8,Addition,0.092297693,,2,entier,
+FheUint8,Soustraction,0.093202893,,2,entier,
+FheUint8,Multiplication,0.189800295,,2,entier,
+FheUint8,Division,1.296846253,,2,entier,
+FheUint8,ET binaire,0.032876169,,2,entier,
+FheUint8,OU binaire,0.033048385,,2,entier,
+FheUint8,XOR binaire,0.032189504,,2,entier,
+FheUint8,Égalité,0.052288028,,2,entier,
+FheUint8,Inégalité,0.051694383,,2,entier,
+FheUint8,Supérieur,0.050693836,,2,entier,
+FheUint8,Supérieur ou égal,0.050516097,,2,entier,
+FheUint16,Addition,0.159315901,,2,entier,
+FheUint16,Soustraction,0.164781039,,2,entier,
+FheUint16,Multiplication,0.806418305,,2,entier,
+FheUint16,Division,4.738001629,,2,entier,
+FheUint16,ET binaire,0.059992443,,2,entier,
+FheUint16,OU binaire,0.0587970779999999,,2,entier,
+FheUint16,XOR binaire,0.058519008,,2,entier,
+FheUint16,Égalité,0.105805724,,2,entier,
+FheUint16,Inégalité,0.100835244,,2,entier,
+FheUint16,Supérieur,0.098766179,,2,entier,
+FheUint16,Supérieur ou égal,0.098239399,,2,entier,
+FheUint32,Addition,0.349194552,,2,entier,
+FheUint32,Soustraction,0.371017134,,2,entier,
+FheUint32,Multiplication,3.401475257,,2,entier,
+FheUint32,Division,18.336281913,,2,entier,
+FheUint32,ET binaire,0.119742028,,2,entier,
+FheUint32,OU binaire,0.118730902,,2,entier,
+FheUint32,XOR binaire,0.117874755,,2,entier,
+FheUint32,Égalité,0.190399072,,2,entier,
+FheUint32,Inégalité,0.179709295,,2,entier,
+FheUint32,Supérieur,0.2057094549999999,,2,entier,
+FheUint32,Supérieur ou égal,0.201332309,,2,entier,
+FheUint64,Addition,0.8413218,,2,entier,
+FheUint64,Soustraction,0.873508673,,2,entier,
+FheUint64,Multiplication,14.56270346,,2,entier,
+FheUint64,Division,78.23615906200001,,2,entier,
+FheUint64,ET binaire,0.2699203979999999,,2,entier,
+FheUint64,OU binaire,0.271226977,,2,entier,
+FheUint64,XOR binaire,0.2692482739999999,,2,entier,
+FheUint64,Égalité,0.402135556,,2,entier,
+FheUint64,Inégalité,0.385062165,,2,entier,
+FheUint64,Supérieur,0.441766627,,2,entier,
+FheUint64,Supérieur ou égal,0.436257638,,2,entier,
+FheUint128,Addition,1.64396842,,2,entier,
+FheUint128,Soustraction,1.668927962,,2,entier,
+FheUint128,Multiplication,56.621668454,,2,entier,
+FheUint128,Division,287.619345882,,2,entier,
+FheUint128,ET binaire,0.499984006,,2,entier,
+FheUint128,OU binaire,0.499115527,,2,entier,
+FheUint128,XOR binaire,0.49997837,,2,entier,
+FheUint128,Égalité,0.6814604550000001,,2,entier,
+FheUint128,Inégalité,0.65554825,,2,entier,
+FheUint128,Supérieur,1.005764136,,2,entier,
+FheUint128,Supérieur ou égal,1.000023832,,2,entier,
+FheUint256,Addition,3.567151456,,2,entier,
+FheUint256,Soustraction,3.521901218,,2,entier,
+FheUint256,Multiplication,194.023101801,,2,entier,
+FheUint256,ET binaire,0.8885666959999999,,2,entier,
+FheUint256,OU binaire,0.885444396,,2,entier,
+FheUint256,XOR binaire,0.887520996,,2,entier,
+FheUint256,Égalité,1.168027244,,2,entier,
+FheUint256,Inégalité,1.150647008,,2,entier,
+FheUint256,Supérieur,1.947630923,,2,entier,
+FheUint256,Supérieur ou égal,1.982936872,,2,entier,
+FheUint512,Addition,7.784081202999999,,2,entier,
+FheUint512,Soustraction,7.470255288000001,,2,entier,
+FheUint512,Multiplication,762.147148907,,2,entier,
+FheUint512,ET binaire,1.770527361,,2,entier,
+FheUint512,OU binaire,1.791392894,,2,entier,
+FheUint512,XOR binaire,1.790479154,,2,entier,
+FheUint512,Égalité,2.281092306,,2,entier,
+FheUint512,Inégalité,2.24839477,,2,entier,
+FheUint512,Supérieur,4.357999199,,2,entier,
+FheUint512,Supérieur ou égal,4.34045795,,2,entier,
+FheUint8,Tri,507.719379917,,128,entier,
+FheUint16,Tri,837.181609582,,128,entier,
+FheUint32,Tri,1665.054155996,,128,entier,
+FheUint16,Tri,11.175285251,,8,entier,
+FheUint16,Tri,37.140943489,,16,entier,
+FheUint16,Tri,114.341592514,,32,entier,
+FheUint16,Tri,311.997227768,,64,entier,
+FheUint16,Tri,837.181609582,,128,entier,
+FheUint16,Tri,2143.524898918,,256,entier,
+FheUint16,Tri,5373.237146841,,512,entier,
+FheUint16,Tri,12982.072423754,,1028,entier,
+FheUint16,Tri,31102.769062904,,2048,entier,
+FheUint64,Programme Addition,1.83756495,,2,entier,
+FheUint64,Programme Soustraction,1.894289713,,2,entier,
+FheUint64,Programme Multiplication,14.282273838,,2,entier,
+FheUint64,Programme Division,72.462064449,,2,entier,
+Global,Generation cles,0.682,,0,entier,
+FheInt64,Chiffrement,0.003535171,,2,flottant,1e3
+FheInt64,Chiffrement,0.003619915,,2,flottant,1e6
+FheInt64,Generation des cles,1.094957687,,2,flottant,1e3
+FheInt64,Generation des cles,1.08326463,,2,flottant,1e6
+FheInt64,Addition homomorphe,0.78265927,,2,flottant,1e3
+FheInt64,Addition homomorphe,0.814207712,,2,flottant,1e6
+FheInt64,Soustraction homomorphe,0.762669487,,2,flottant,1e3
+FheInt64,Soustraction homomorphe,0.801113175,,2,flottant,1e6
+FheInt64,Multiplication homomorphe,13.031773567,,2,flottant,1e3
+FheInt64,Multiplication homomorphe,14.055032123,,2,flottant,1e6
+FheInt64,Division homomorphe,74.999825657,,2,flottant,1e3
+FheInt64,Division homomorphe,79.121153683,,2,flottant,1e6
+FheInt64,ET binaire,0.226110589,,2,flottant,1e3
+FheInt64,ET binaire,0.241049094,,2,flottant,1e6
+FheInt64,OU binaire,0.22817085499999998,,2,flottant,1e3
+FheInt64,OU binaire,0.242838415,,2,flottant,1e6
+FheInt64,XOR binaire,0.226719395,,2,flottant,1e3
+FheInt64,XOR binaire,0.241592229,,2,flottant,1e6
+FheInt64,Egalite,0.34968278199999997,,2,flottant,1e3
+FheInt64,Egalite,0.370338026,,2,flottant,1e6
+FheInt64,Inegalite,0.349317717,,2,flottant,1e3
+FheInt64,Inegalite,0.366521332,,2,flottant,1e6
+FheInt64,Superieur,0.41495611000000004,,2,flottant,1e3
+FheInt64,Superieur,0.434053627,,2,flottant,1e6
+FheInt64,Superieur ou egal,0.4119551,,2,flottant,1e3
+FheInt64,Superieur ou egal,0.432027594,,2,flottant,1e6
+FheInt64,Dechiffrement,7.1316e-05,,2,flottant,1e3
+FheInt64,Dechiffrement,7.187699999999999e-05,,2,flottant,1e6
+FheInt64,Programme Soustraction,1.843317755,,2,flottant,1e3
+FheInt64,Programme Soustraction,1.827881076,,2,flottant,1e6
+FheInt64,Programme Soustraction,1.846761044,,2,flottant,1e9
+FheInt64,Programme Addition,1.881751513,,2,flottant,1e3
+FheInt64,Programme Addition,1.878958681,,2,flottant,1e6
+FheInt64,Programme Addition,1.847345224,,2,flottant,1e9
+FheInt64,Programme Multiplication,14.502131521,,2,flottant,1e3
+FheInt64,Programme Multiplication,14.542608163,,2,flottant,1e6
+FheInt64,Programme Multiplication,14.365884401,,2,flottant,1e9
+FheInt64,Programme Division,76.86248451,,2,flottant,1e3
+FheInt64,Programme Division,77.630934641,,2,flottant,1e6
+FheInt64,Programme Division,77.440679578,,2,flottant,1e9
