@@ -167,14 +167,14 @@ FheInt64,Chiffrement,0.003535171,,2,flottant,1e3
 FheInt64,Chiffrement,0.003619915,,2,flottant,1e6
 FheInt64,Generation des cles,1.094957687,,2,flottant,1e3
 FheInt64,Generation des cles,1.08326463,,2,flottant,1e6
-FheInt64,Addition homomorphe,0.78265927,,2,flottant,1e3
-FheInt64,Addition homomorphe,0.814207712,,2,flottant,1e6
-FheInt64,Soustraction homomorphe,0.762669487,,2,flottant,1e3
-FheInt64,Soustraction homomorphe,0.801113175,,2,flottant,1e6
-FheInt64,Multiplication homomorphe,13.031773567,,2,flottant,1e3
-FheInt64,Multiplication homomorphe,14.055032123,,2,flottant,1e6
-FheInt64,Division homomorphe,74.999825657,,2,flottant,1e3
-FheInt64,Division homomorphe,79.121153683,,2,flottant,1e6
+FheInt64,Addition,0.78265927,,2,flottant,1e3
+FheInt64,Addition,0.814207712,,2,flottant,1e6
+FheInt64,Soustraction,0.762669487,,2,flottant,1e3
+FheInt64,Soustraction,0.801113175,,2,flottant,1e6
+FheInt64,Multiplication,13.031773567,,2,flottant,1e3
+FheInt64,Multiplication,14.055032123,,2,flottant,1e6
+FheInt64,Division,74.999825657,,2,flottant,1e3
+FheInt64,Division,79.121153683,,2,flottant,1e6
 FheInt64,ET binaire,0.226110589,,2,flottant,1e3
 FheInt64,ET binaire,0.241049094,,2,flottant,1e6
 FheInt64,OU binaire,0.22817085499999998,,2,flottant,1e3
